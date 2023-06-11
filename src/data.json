@@ -1,0 +1,40 @@
+{
+    "cans": [
+        {
+            "id": 1,
+            "image":"src/assets/img/img0.jpg",
+            "name":"Bartolo",
+            "description":"Lleno de energia y listo para jugar y pasar lindos dias. ¡Dale a Bartolo el hogar amoroso que se merece!",
+            "texto":"Husky",
+            "color":"success"
+
+        },
+        {
+            "id": 2,
+            "image":"src/assets/img/img1.jpg",
+            "name":"Messi",
+            "description":"Es jugueton , amigable y se lleva bien con los niños y otros animale. ¡Haz de Messi parte de tu familia hoy mismo!",
+            "texto":"Bobtail",
+            "color":"primary"
+
+        },
+        {
+            "id": 3,
+            "image":"src/assets/img/img2.jpg",
+            "name":"Gohan",
+            "description":"Un perro de tamaño mediano con un corazón gigante. Hazte amigo de Gohan y Experimenta un amor incondicional!",
+            "texto":"Shar pei",
+            "color":"danger"
+
+        },
+        {
+            "id": 4,
+            "image":"src/assets/img/img3.jpg",
+            "name":"Princesa",
+            "description":"Es una compañera leal y cariñosa que adora los mimos y los abrazos. ¡Ayuda a princesa a enontrar su final feliz!",
+            "texto":"Beagle",
+            "color":"warning"
+
+        }
+    ]
+}
